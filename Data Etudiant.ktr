@@ -1042,7 +1042,7 @@
       </key>
       <value>
         <name>DELEGATION</name>
-        <rename>DELEGATION</rename>
+        <rename>VILLE</rename>
         <default/>
         <type>String</type>
       </value>
